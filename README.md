@@ -18,9 +18,13 @@
 <!-- EDIT: rewrite these in your own words -->
 - 🎓 2nd-year Computer Science Engineering student at **Ramdeobaba University (RBU), Nagpur**
 - 🚀 Co-founding **Awaitex** and building its 3D, scroll-driven website
-- 🎪 Part of **E-Cell RBU** (Events), leading frontend for event registration sites
+- 💻 On the **Tech team at E-Cell RBU**, building the cell's websites
 - 🌱 Currently learning Three.js, GSAP and React Three Fiber
-- 🏆 Hackathons: Multimodal AI Hackathon (IIT Mandi), Hacktoberfest Hack Day × Elevate IIITN, NASA Space Apps
+- ⚡ Hackathons: Smart India Hackathon 2026, Multimodal AI Hackathon (IIT Mandi), Hacktoberfest Hack Day × Elevate IIITN, NASA Space Apps
+
+## 🏆 Achievements
+
+- 🥉 **3rd place**, Geektoberfest open-source contribution hackathon by GeeksforGeeks
 
 ## 🛠️ Tech I work with
 
@@ -35,6 +39,7 @@
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
@@ -42,12 +47,15 @@
 
 ## 🚧 Projects
 
+<!-- EDIT: rows without a link need one. Replace the bold name with [Name](link-to-repo) -->
 | Project | What it is | Built with |
 |---|---|---|
-| **Awaitex** <!-- EDIT: add the link once awaitex.in is live --> | Startup rewarding Indian developers for the idle time while AI coding agents think. I'm building the 3D, scroll-driven website. | Vite, TypeScript, Three.js, GSAP |
-| **[E-Cell RBU Website](https://github.com/harshavi3009/ECell-Website)** | Website and event registration for the Entrepreneurship Cell at RBU | TypeScript |
-| **[StreetSafe-Nagpur](https://github.com/rishi-3009/StreetSafe-Nagpur)** | Crowdsourced safety map of Nagpur that clusters incident reports into "Red Zones" | Python, FastAPI, Leaflet.js |
-| **CardioLens** <!-- EDIT: add the repo or Devpost link --> | Interactive 3D heart dashboard for cardiovascular risk, built for the IIT Mandi Multimodal AI Hackathon | Three.js, TypeScript |
+| **[StreetSafe-Nagpur](https://github.com/rishi-3009/StreetSafe-Nagpur)** | Crowdsourced safety map of Nagpur. People pin unsafe spots, reports are moderated before going public, and clusters will become "Red Zones" | Python, FastAPI, SQLite, Leaflet.js |
+| **NaadChitra** <!-- EDIT: add link --> | SIH 2026 prototype: photograph a museum painting or statue, identify the ancient musical instrument in it, read its history, hear it and play it | <!-- EDIT: add tech --> |
+| **MaapDrishti** <!-- EDIT: add link --> | SIH 2026 prototype: scans packaged products and labels to check compliance with India's Legal Metrology rules | <!-- EDIT: add tech --> |
+| **[E-Cell RBU Website](https://github.com/harshavi3009/ECell-Website)** | The official website of the Entrepreneurship Cell at RBU | TypeScript |
+| **E-Cell Recruitment Website** <!-- EDIT: add link --> | Recruitment website for E-Cell RBU, with an admin dashboard to review applicants by domain | TypeScript, Supabase |
+| **[SecondLook](https://github.com/rishi-3009/SecondLook)** | GST invoice intelligence, our qualifier for Hacktoberfest Hack Day × Elevate IIITN | <!-- EDIT: add tech --> |
 
 ## 📊 GitHub stats
 
