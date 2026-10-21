@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
   <img src="https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
@@ -47,15 +48,14 @@
 
 ## 🚧 Projects
 
-<!-- EDIT: rows without a link need one. Replace the bold name with [Name](link-to-repo) -->
 | Project | What it is | Built with |
 |---|---|---|
 | **[StreetSafe-Nagpur](https://github.com/rishi-3009/StreetSafe-Nagpur)** | Crowdsourced safety map of Nagpur. People pin unsafe spots, reports are moderated before going public, and clusters will become "Red Zones" | Python, FastAPI, SQLite, Leaflet.js |
-| **NaadChitra** <!-- EDIT: add link --> | SIH 2026 prototype: photograph a museum painting or statue, identify the ancient musical instrument in it, read its history, hear it and play it | <!-- EDIT: add tech --> |
-| **MaapDrishti** <!-- EDIT: add link --> | SIH 2026 prototype: scans packaged products and labels to check compliance with India's Legal Metrology rules | <!-- EDIT: add tech --> |
-| **[E-Cell RBU Website](https://github.com/harshavi3009/ECell-Website)** | The official website of the Entrepreneurship Cell at RBU | TypeScript |
-| **E-Cell Recruitment Website** <!-- EDIT: add link --> | Recruitment website for E-Cell RBU, with an admin dashboard to review applicants by domain | TypeScript, Supabase |
-| **[SecondLook](https://github.com/rishi-3009/SecondLook)** | GST invoice intelligence, our qualifier for Hacktoberfest Hack Day × Elevate IIITN | <!-- EDIT: add tech --> |
+| **[NaadChitra](https://github.com/ayyogz/naadchitra)** | SIH 2026 Android app: point your phone at Indian art, identify the classical instrument in it, hear its real sound and play it yourself. Runs fully offline | Flutter, Kotlin, ONNX Runtime |
+| **[MaapDrishti](https://github.com/ayyogz/maapdrishti)** | SIH 2026 Android app: photograph a packaged product and it reads the label, measures the print size and checks it against Legal Metrology rules, all on the phone | Flutter, Kotlin, PaddleOCR, OpenCV |
+| **[E-Cell RBU Website](https://github.com/harshavi3009/Ecell-Frontend)** | A new website for the Entrepreneurship Cell at RBU, set to become its official site | Next.js, TypeScript, Tailwind CSS, Motion |
+| **[E-Cell Recruitment Website](https://github.com/Ecell-2026/Ecell-Recruitment)** | Recruitment website where first-years apply to E-Cell RBU's domains | Next.js, TypeScript, Tailwind CSS, shadcn/ui |
+| **[SecondLook](https://github.com/rishi-3009/SecondLook)** | GST invoice reader that fixes misread handwriting using the invoice's own maths. Our qualifier for Hacktoberfest Hack Day × Elevate IIITN | Qwen3.5, PP-OCRv5, Docling, FastAPI |
 
 ## 📊 GitHub stats
 
