@@ -100,7 +100,7 @@ Point your phone at a piece of Indian art, find the instrument hidden in it, the
 
 <!-- These update automatically. If one ever shows as a broken image, just delete that line. -->
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harshavi3009&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=harshavi3009&show_icons=true&hide_rank=true&theme=radical&hide_border=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshavi3009&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
   <br />
   <img src="https://streak-stats.demolab.com?user=harshavi3009&theme=radical&hide_border=true" alt="GitHub streak" />
