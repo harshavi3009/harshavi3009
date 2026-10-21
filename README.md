@@ -36,23 +36,6 @@
 - 🇮🇳 **Shortlisted**, Smart India Hackathon 2026 internal hackathon
 - 🇮🇳 **Shortlisted**, Smart India Hackathon 2025 internal hackathon
 
-## 🌍 Open source
-
-**38 merged pull requests in 7 days** during Geektoberfest by GeeksforGeeks.
-
-<p>
-  <a href="https://github.com/search?q=org%3AGeektoberfest+author%3Aharshavi3009+is%3Apr+is%3Amerged&type=pullrequests"><img src="https://img.shields.io/badge/Geektoberfest-38_merged_PRs-ff4f9a?style=for-the-badge&logo=github&logoColor=white" alt="38 merged PRs in Geektoberfest" /></a>
-</p>
-
-| Repo | Merged PRs | Highlights |
-|---|---|---|
-| [Chat-Server](https://github.com/Geektoberfest/Geektoberfest-Chat-Server) | 15 | [Direct messages](https://github.com/Geektoberfest/Geektoberfest-Chat-Server/pull/36) · [Typing indicators](https://github.com/Geektoberfest/Geektoberfest-Chat-Server/pull/30) · [Message search & mentions](https://github.com/Geektoberfest/Geektoberfest-Chat-Server/pull/29) · [Accessibility](https://github.com/Geektoberfest/Geektoberfest-Chat-Server/pull/39) · [Automated tests](https://github.com/Geektoberfest/Geektoberfest-Chat-Server/pull/33) |
-| [E-SHELL](https://github.com/Geektoberfest/Geektoberfest-E-SHELL) | 7 | [Go & Rust support, safe ZIP extraction](https://github.com/Geektoberfest/Geektoberfest-E-SHELL/pull/28) · [Unknown command detection](https://github.com/Geektoberfest/Geektoberfest-E-SHELL/pull/24) · [Model evaluation report](https://github.com/Geektoberfest/Geektoberfest-E-SHELL/pull/29) |
-| [Club Task & Attendance](https://github.com/Geektoberfest/Geektoberfes-club-task-and-attendance-management-system) | 4 | [Role-based API access](https://github.com/Geektoberfest/Geektoberfes-club-task-and-attendance-management-system/pull/13) · [Activity audit log](https://github.com/Geektoberfest/Geektoberfes-club-task-and-attendance-management-system/pull/16) · [Task summary stats](https://github.com/Geektoberfest/Geektoberfes-club-task-and-attendance-management-system/pull/11) |
-| [Hospital Appointments](https://github.com/Geektoberfest/Geektoberfest-hospital-appointment-platform) | 2 | [Real-time waiting-list notifications](https://github.com/Geektoberfest/Geektoberfest-hospital-appointment-platform/pull/33) · [Refresh token rotation](https://github.com/Geektoberfest/Geektoberfest-hospital-appointment-platform/pull/31) |
-| [CampusMart](https://github.com/Geektoberfest/Geektoberfest-CampusMart) | 2 | [Wishlist](https://github.com/Geektoberfest/Geektoberfest-CampusMart/pull/7) · [Logo & favicon fix](https://github.com/Geektoberfest/Geektoberfest-CampusMart/pull/6) |
-| More | 4 | [Study analytics](https://github.com/Geektoberfest/Geektoberfest-Study-Planner/pull/15) · [Document stats](https://github.com/Geektoberfest/Geetober-YANP/pull/20) · [Atomic likes](https://github.com/Geektoberfest/Geektober-PromptForge/pull/8) · [Category budget limits](https://github.com/Geektoberfest/Geektoberfest-decentralized-budget-tracker/pull/17) |
-
 ## 🛠️ Tech I work with
 
 <!-- EDIT: delete any badge you're not comfortable being asked about in an interview -->
@@ -95,6 +78,23 @@ Point your phone at a piece of Indian art, find the instrument hidden in it, the
 | **[E-Cell RBU Website](https://github.com/harshavi3009/Ecell-Frontend)** | A new website for the Entrepreneurship Cell at RBU, set to become its official site | Next.js, TypeScript, Tailwind CSS, Motion |
 | **[E-Cell Recruitment Website](https://github.com/Ecell-2026/Ecell-Recruitment)** | Recruitment website where first-years apply to E-Cell RBU's domains | Next.js, TypeScript, Tailwind CSS, shadcn/ui |
 | **[SecondLook](https://github.com/rishi-3009/SecondLook)** | GST invoice reader that fixes misread handwriting using the invoice's own maths. Our qualifier for Hacktoberfest Hack Day × Elevate IIITN | Qwen3.5, PP-OCRv5, Docling, FastAPI |
+
+## 🌍 Open source
+
+**38 merged pull requests in 7 days** during Geektoberfest by GeeksforGeeks.
+
+<p>
+  <a href="https://github.com/search?q=org%3AGeektoberfest+author%3Aharshavi3009+is%3Apr+is%3Amerged&type=pullrequests"><img src="https://img.shields.io/badge/Geektoberfest-38_merged_PRs-ff4f9a?style=for-the-badge&logo=github&logoColor=white" alt="38 merged PRs in Geektoberfest" /></a>
+</p>
+
+| Repo | Merged PRs | Highlights |
+|---|---|---|
+| [Chat-Server](https://github.com/Geektoberfest/Geektoberfest-Chat-Server) | 15 | [Direct messages](https://github.com/Geektoberfest/Geektoberfest-Chat-Server/pull/36) · [Typing indicators](https://github.com/Geektoberfest/Geektoberfest-Chat-Server/pull/30) · [Message search & mentions](https://github.com/Geektoberfest/Geektoberfest-Chat-Server/pull/29) · [Accessibility](https://github.com/Geektoberfest/Geektoberfest-Chat-Server/pull/39) · [Automated tests](https://github.com/Geektoberfest/Geektoberfest-Chat-Server/pull/33) |
+| [E-SHELL](https://github.com/Geektoberfest/Geektoberfest-E-SHELL) | 7 | [Go & Rust support, safe ZIP extraction](https://github.com/Geektoberfest/Geektoberfest-E-SHELL/pull/28) · [Unknown command detection](https://github.com/Geektoberfest/Geektoberfest-E-SHELL/pull/24) · [Model evaluation report](https://github.com/Geektoberfest/Geektoberfest-E-SHELL/pull/29) |
+| [Club Task & Attendance](https://github.com/Geektoberfest/Geektoberfes-club-task-and-attendance-management-system) | 4 | [Role-based API access](https://github.com/Geektoberfest/Geektoberfes-club-task-and-attendance-management-system/pull/13) · [Activity audit log](https://github.com/Geektoberfest/Geektoberfes-club-task-and-attendance-management-system/pull/16) · [Task summary stats](https://github.com/Geektoberfest/Geektoberfes-club-task-and-attendance-management-system/pull/11) |
+| [Hospital Appointments](https://github.com/Geektoberfest/Geektoberfest-hospital-appointment-platform) | 2 | [Real-time waiting-list notifications](https://github.com/Geektoberfest/Geektoberfest-hospital-appointment-platform/pull/33) · [Refresh token rotation](https://github.com/Geektoberfest/Geektoberfest-hospital-appointment-platform/pull/31) |
+| [CampusMart](https://github.com/Geektoberfest/Geektoberfest-CampusMart) | 2 | [Wishlist](https://github.com/Geektoberfest/Geektoberfest-CampusMart/pull/7) · [Logo & favicon fix](https://github.com/Geektoberfest/Geektoberfest-CampusMart/pull/6) |
+| More | 4 | [Study analytics](https://github.com/Geektoberfest/Geektoberfest-Study-Planner/pull/15) · [Document stats](https://github.com/Geektoberfest/Geetober-YANP/pull/20) · [Atomic likes](https://github.com/Geektoberfest/Geektober-PromptForge/pull/8) · [Category budget limits](https://github.com/Geektoberfest/Geektoberfest-decentralized-budget-tracker/pull/17) |
 
 ## 📊 GitHub stats
 
