@@ -13,18 +13,45 @@
 
 </div>
 
+<div align="center">
+
+> 🔨 **Currently building:** Awaitex's 3D, scroll-driven website and the new E-Cell RBU site
+
+</div>
+
 ## 👩‍💻 About me
 
 <!-- EDIT: rewrite these in your own words -->
 - 🎓 2nd-year Computer Science Engineering student at **Ramdeobaba University (RBU), Nagpur**
-- 🚀 Co-founding **Awaitex** and building its 3D, scroll-driven website
+- 🚀 Co-founding **Awaitex** with [@rishi-3009](https://github.com/rishi-3009)
 - 💻 On the **Tech team at E-Cell RBU**, building the cell's websites
+- 🎨 I love interfaces that move: scroll-driven 3D scenes, smooth animation and UI people enjoy using
 - 🌱 Currently learning Three.js, GSAP and React Three Fiber
 - ⚡ Hackathons: Smart India Hackathon 2026, Multimodal AI Hackathon (IIT Mandi), Hacktoberfest Hack Day × Elevate IIITN, NASA Space Apps
 
 ## 🏆 Achievements
 
-- 🥉 **3rd place**, Geektoberfest open-source contribution hackathon by GeeksforGeeks
+- 🚀 **Awaitex** (my startup) is incubated at **RCOEM TBI**
+- 🥉 **3rd place**, Geektoberfest open-source contribution hackathon by GeeksforGeeks, with 38 merged pull requests in 7 days
+- 🇮🇳 **Shortlisted**, Smart India Hackathon 2026 internal hackathon
+- 🇮🇳 **Shortlisted**, Smart India Hackathon 2025 internal hackathon
+
+## 🌍 Open source
+
+**38 merged pull requests in 7 days** during Geektoberfest by GeeksforGeeks.
+
+<p>
+  <a href="https://github.com/search?q=org%3AGeektoberfest+author%3Aharshavi3009+is%3Apr+is%3Amerged&type=pullrequests"><img src="https://img.shields.io/badge/Geektoberfest-38_merged_PRs-ff4f9a?style=for-the-badge&logo=github&logoColor=white" alt="38 merged PRs in Geektoberfest" /></a>
+</p>
+
+| Repo | Merged PRs | Highlights |
+|---|---|---|
+| [Chat-Server](https://github.com/Geektoberfest/Geektoberfest-Chat-Server) | 15 | [Direct messages](https://github.com/Geektoberfest/Geektoberfest-Chat-Server/pull/36) · [Typing indicators](https://github.com/Geektoberfest/Geektoberfest-Chat-Server/pull/30) · [Message search & mentions](https://github.com/Geektoberfest/Geektoberfest-Chat-Server/pull/29) · [Accessibility](https://github.com/Geektoberfest/Geektoberfest-Chat-Server/pull/39) · [Automated tests](https://github.com/Geektoberfest/Geektoberfest-Chat-Server/pull/33) |
+| [E-SHELL](https://github.com/Geektoberfest/Geektoberfest-E-SHELL) | 7 | [Go & Rust support, safe ZIP extraction](https://github.com/Geektoberfest/Geektoberfest-E-SHELL/pull/28) · [Unknown command detection](https://github.com/Geektoberfest/Geektoberfest-E-SHELL/pull/24) · [Model evaluation report](https://github.com/Geektoberfest/Geektoberfest-E-SHELL/pull/29) |
+| [Club Task & Attendance](https://github.com/Geektoberfest/Geektoberfes-club-task-and-attendance-management-system) | 4 | [Role-based API access](https://github.com/Geektoberfest/Geektoberfes-club-task-and-attendance-management-system/pull/13) · [Activity audit log](https://github.com/Geektoberfest/Geektoberfes-club-task-and-attendance-management-system/pull/16) · [Task summary stats](https://github.com/Geektoberfest/Geektoberfes-club-task-and-attendance-management-system/pull/11) |
+| [Hospital Appointments](https://github.com/Geektoberfest/Geektoberfest-hospital-appointment-platform) | 2 | [Real-time waiting-list notifications](https://github.com/Geektoberfest/Geektoberfest-hospital-appointment-platform/pull/33) · [Refresh token rotation](https://github.com/Geektoberfest/Geektoberfest-hospital-appointment-platform/pull/31) |
+| [CampusMart](https://github.com/Geektoberfest/Geektoberfest-CampusMart) | 2 | [Wishlist](https://github.com/Geektoberfest/Geektoberfest-CampusMart/pull/7) · [Logo & favicon fix](https://github.com/Geektoberfest/Geektoberfest-CampusMart/pull/6) |
+| More | 4 | [Study analytics](https://github.com/Geektoberfest/Geektoberfest-Study-Planner/pull/15) · [Document stats](https://github.com/Geektoberfest/Geetober-YANP/pull/20) · [Atomic likes](https://github.com/Geektoberfest/Geektober-PromptForge/pull/8) · [Category budget limits](https://github.com/Geektoberfest/Geektoberfest-decentralized-budget-tracker/pull/17) |
 
 ## 🛠️ Tech I work with
 
@@ -48,6 +75,18 @@
 
 ## 🚧 Projects
 
+### ⭐ Featured: [NaadChitra](https://github.com/ayyogz/naadchitra)
+
+Point your phone at a piece of Indian art, find the instrument hidden in it, then play it yourself. Built for Smart India Hackathon 2026.
+
+<p align="center">
+  <a href="https://github.com/ayyogz/naadchitra"><img src="https://raw.githubusercontent.com/ayyogz/naadchitra/main/docs/screenshots/01-scan.png" width="200" alt="NaadChitra scan screen" /></a>
+  <a href="https://github.com/ayyogz/naadchitra"><img src="https://raw.githubusercontent.com/ayyogz/naadchitra/main/docs/screenshots/02-result.png" width="200" alt="NaadChitra instrument result" /></a>
+  <a href="https://github.com/ayyogz/naadchitra"><img src="https://raw.githubusercontent.com/ayyogz/naadchitra/main/docs/screenshots/03-play.png" width="200" alt="NaadChitra note pad" /></a>
+</p>
+
+### All projects
+
 | Project | What it is | Built with |
 |---|---|---|
 | **[StreetSafe-Nagpur](https://github.com/rishi-3009/StreetSafe-Nagpur)** | Crowdsourced safety map of Nagpur. People pin unsafe spots, reports are moderated before going public, and clusters will become "Red Zones" | Python, FastAPI, SQLite, Leaflet.js |
@@ -65,6 +104,14 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshavi3009&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
   <br />
   <img src="https://streak-stats.demolab.com?user=harshavi3009&theme=radical&hide_border=true" alt="GitHub streak" />
+</div>
+
+<!-- The snake below only appears after you add the snake.yml automation file. Until then it shows as a broken image, which is normal. -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshavi3009/harshavi3009/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/harshavi3009/harshavi3009/output/github-snake.svg" alt="Snake eating my contribution graph" />
+  </picture>
 </div>
 
 <div align="center">
